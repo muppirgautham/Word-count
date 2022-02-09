@@ -38,6 +38,7 @@ wordcount(filename)
 ```
 ### OUTPUT:
 ![image](https://user-images.githubusercontent.com/94810884/153128362-9c884d48-1629-4e1f-9408-d496181517fc.png)
+
 ![image](https://user-images.githubusercontent.com/94810884/153128396-47e903ff-f0d3-4cc1-bddb-37f78c8d51ac.png)
 
 
